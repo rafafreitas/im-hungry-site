@@ -1,0 +1,477 @@
+/*
+Project: I`m Hungry
+*/
+
+/*============================
+			(max-width: 346px)
+==============================*/
+@media (max-width: 346px){
+	body{
+		margin-bottom: 376px!important;
+	}
+
+	div#brand .brand-text{
+		display: none;
+	}
+	img.hidden-xs{
+		display: none;
+	}
+}
+
+/*============================
+			(max-width: 500px)
+==============================*/
+@media (max-width: 500px){
+	.fix-xs{
+		float: none;
+		width: 100%;
+	}
+	img.hidden-xs{
+		display: none;
+	}
+}
+
+/*============================
+			(max-width: 767px)
+==============================*/
+@media (max-width: 767px){
+	body{
+		margin-bottom: 357px!important;
+	}
+
+	div#header nav#navigation {
+    padding: 15px 0 5px;
+	}
+
+	div#brand svg{
+		width: 130px;
+	}
+
+	div#header.internas .affix-top .container-fluid:before{
+		opacity: 1;
+		border-top: 28px solid #fff!important;
+	}
+
+	div#header .navbar-toggle {
+    margin-top: 18px;
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a{
+		color: rgba(255,255,255,.6);
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li:hover > a,
+	.navbar-default .navbar-nav .open .dropdown-menu > li:focus > a{
+		color: rgba(255,255,255,1);
+	}
+
+	div.wrapper{
+		padding-top: 95px;
+	}
+
+	div.header-page svg{
+		display: none;
+	}
+
+	footer#footer:before{
+		width: 50%;
+	}
+
+	.menu-footer a{
+		float: none;
+		line-height: 1.2em!important;
+	}
+
+	.menu-footer li:first-child a{
+		border-left: 1px solid rgba(255,255,255,.5)!important;
+	}
+
+	#footer .social-media{
+		margin-bottom: 10px;
+	}
+
+	img.hidden-xs{
+		display: none;
+	}
+
+}
+
+/*============================
+			(max-width: 991px)
+==============================*/
+@media (max-width: 991px){
+  .info-top ul.pull-right{
+    margin-right: 25px;
+  }
+
+  .navbar-header {
+    float: none;
+  }
+
+  .navbar-left,.navbar-right{
+    float: none!important;
+  }
+  
+  .navbar-toggle{
+    display: block;
+  }
+  
+  .navbar-collapse{
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  
+  .navbar-fixed-top{
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  
+  .navbar-collapse.collapse{
+    display: none!important;
+  }
+
+  .navbar-nav{
+    float: none!important;
+    margin-top: 31px;
+  }
+
+  .navbar-nav > li{
+    float: none;
+  }
+  
+  .navbar-nav > li > a{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .collapse.in{
+    display:block !important;
+  }
+
+  .navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-radius: 0;
+    background: #d02525;
+  }
+
+  .navbar-nav .open .dropdown-menu a{
+  	text-transform: uppercase;
+  	color: #fff;
+  }
+
+  .dropdown-menu > li > a:focus,
+  .dropdown-menu > li > a:hover{
+  	background: transparent;
+  }
+
+  .navbar-fixed-bottom .navbar-collapse,
+  .navbar-fixed-top .navbar-collapse{
+  	max-height: 100%; 
+  }
+
+  div#menu-principal{
+    position: fixed;
+    top: 0;
+    right: -250px;
+    width: 250px;
+    height: 100%!important;
+    padding-top: 16px!important;
+    color: #fff;
+    background: #d02525;
+    border: 0!important;
+
+    -webkit-box-shadow: -5px 0px 10px -1px rgba(0,0,0,0.39);
+    -moz-box-shadow: -5px 0px 10px -1px rgba(0,0,0,0.39);
+    box-shadow: -5px 0px 10px -1px rgba(0,0,0,0.39);
+
+  	-webkit-transition: right 300ms .1s;
+    -moz-transition: right 300ms .1s;
+    -ms-transition: right 300ms .1s;
+    -o-transition: right 300ms .1s;
+    transition: right 300ms .1s;
+  }
+
+  div#menu-principal.open{
+  	right: 0;
+  	animation: openMenu 300ms .1s backwards;
+  }
+
+  @keyframes openMenu{
+  	0%{right: -260px;}
+  	100%{right: 0;}
+  }
+
+  div#header .navbar-toggle{
+  	position: relative;
+  	z-index: 9999;
+  }
+  img.hidden-xs{
+		display: none;
+	}
+	img.como-funciona{
+	  max-width: 280px;
+	}
+  
+}
+
+/*============================
+			(max-height: 768px)
+==============================*/
+@media (max-height: 768px){
+	.main-carousel{
+		height: 60vh;
+	}
+
+	.blocks-nip a,
+	.facebook{
+		min-height: 25vh;
+	}
+
+}
+
+/*==============================
+================================
+				Star Queries Min
+================================
+===============================*/
+
+/*============================
+			(min-width: 768px)
+==============================*/
+@media (min-width: 768px){
+	body{
+		margin-bottom: 248px!important;
+	}
+
+	div#header nav#navigation{
+		padding-top: 30px;
+	}
+
+	.menu-footer li:first-child a{
+		padding-left: 0;
+	}
+
+	#company-name{
+		text-align: right;
+	}
+
+	div.header-page .desc{
+    font-size: 1.250em;
+  	}
+  	img.hidden-xs{
+		width:354px!important;
+	}
+}
+
+/*============================
+			(min-width: 992px)
+==============================*/
+@media (min-width: 992px){
+	.container-fluid{
+		width: 95%;
+	}
+
+	div#header .menu > li > a{
+		padding: 0 10px;
+	}
+
+	div#header.internas .affix-top .menu > li > a{
+		color: rgba(97, 18,5,.85)!important;
+	}
+
+	div#header .social-media li a{
+		color: rgba(255,255,255,.5);
+	}
+
+	div#header .social-media li a:hover,
+	div#header .social-media li a:focus{
+		color: rgba(255,255,255,1);
+	}
+
+	div#header.internas .affix-top .menu > li > a,
+	div#header.internas .affix-top .social-media li a{
+		color: rgba(97, 18,5,.85)!important;
+	}
+
+	div#header.internas .affix-top .menu > li > a:hover,
+	div#header.internas .affix-top .menu > li > a:focus,
+	div#header.internas .affix-top .social-media li a:hover,
+	div#header.internas .affix-top .social-media li a:focus{
+		color: rgba(97, 18,5,1)!important;
+	}
+
+	div#header #menu-principal {
+    padding-right: 35px;
+	}
+
+	div#header li.dropdown{
+		text-align: center;
+	}
+
+	div#header li.dropdown > a > i {
+	  display: block;
+	}
+
+	li.dropdown:hover .dropdown-menu{
+    display: block;
+  }
+
+  div#header .dropdown-menu{
+		padding: 0;
+		border: 0;
+		border-radius: 0;
+		left: 0;
+		right: auto;
+  }
+
+  div#header li:last-child .dropdown-menu,
+  div#header #bottom-bar li:nth-child(6) .dropdown-menu{
+  	left: auto;
+		right: 0;
+  }
+
+  div#header .dropdown-menu li a{
+  	padding: 12px 10px;
+  	text-transform: uppercase;
+  }
+
+  div#header .dropdown-menu li a i{
+  	margin-right: 5px;
+  }
+
+	div#header .affix-top .dropdown-menu{
+		background: #d02525;
+	}
+
+	div#header .dropdown-menu li a{
+		color: #d02525;
+	}
+
+	div#header .dropdown-menu li:hover a,
+	div#header .dropdown-menu li:focus a{
+		color: #fff;
+		background: #d02525;
+	}
+
+	div#header .affix-top .dropdown-menu li a{
+		color: rgba(255,255,255,.5);
+	}
+
+	div#header .affix-top .dropdown-menu li:hover a,
+	div#header .affix-top .dropdown-menu li:focus a{
+		color: rgba(255,255,255,1);
+		background: #d02525;
+	}
+
+	.menu > li:before{
+	  content: '';
+	  position: absolute;
+	  right: 0;
+	  top: 0;
+	  width: 1px;
+	  background: rgba(255,255,255,.5);
+	}
+
+	.menu > li:last-child:before,
+	#bottom-bar.menu > li:nth-child(5):before{
+		display: none;
+	}
+
+	#top-bar.menu > li:before{
+		top: 50%;
+		height: 12px;
+		-webkit-transform: translateY(-50%);
+		transform: translateY(-50%);
+	}
+
+	#bottom-bar.menu > li:before{
+		height: 14px;
+	}
+
+	div#header.internas .affix-top .menu > li:before{
+		background: rgba(97, 18,5,.85)!important;
+	}
+	
+	div#header ul#top-bar li.dropdown .dropdown-menu::before{
+    content: "";
+    position: absolute;
+    left: 30%;
+    top: -8px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #fff;
+	}
+
+	div#header .affix-top ul#top-bar li.dropdown .dropdown-menu::before{
+		border-bottom-color: #d02525;
+	}
+
+	div#header ul#top-bar li:last-child.dropdown .dropdown-menu::before{
+		right: 20%;
+		left: auto;
+	}
+
+  div#header nav.navbar ul#top-bar{
+  	padding-right: 15px;
+  	margin-top: -10px;
+  }
+
+	div#header nav.navbar ul#top-bar > li > a{
+		font-size: 0.750em; 
+		/*padding-top: 10px;*/
+		padding-bottom: 10px;
+	}
+
+	div#header nav.navbar ul#bottom-bar{
+		padding-top: 18px;
+		margin-right: -53px;
+	}
+
+	div#header nav.social-media{
+    position: absolute;
+    bottom: 15px;
+    right: 0;
+    width: 35px;
+	}
+	img.hidden-xs{
+		width:454px!important;
+	}
+
+}
+
+/*============================
+			(max-width: 1200px)
+==============================*/
+@media (max-width: 1100px){
+	
+}
+
+
+/*============================
+			(min-width: 1200px)
+==============================*/
+@media (min-width: 1200px){
+	
+}
+
+/*============================
+			(min-width: 1337px)
+==============================*/
+@media (min-width: 1337px){
+	div#header nav#navigation #menu-principal{
+	    float: right;
+	    width: 60%;
+	}
+	
+}
