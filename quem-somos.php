@@ -28,7 +28,7 @@
   	    <div class="col-sm-8">
   	      <h2>Vivemos pra comer!</h2><br>
   	      <h4>Impulsionada pela praticidade e pelas novas rotinas de consumo a I’m Hungry é uma plataforma web e mobile, que tem por objetivo facilitar interação entre food trucks e seus consumidores, agregando qualidade, segurança, praticidade e celeridade a todo o processo. </h4><br>
-  	      <p>A aplicação permite que toda parte operativa dos clientes sejam executadas na versão mobile, ou seja, das realizações dos pedidos, através da escolha dos itens em um dos menus disponibilizados pelos food trucks, as efetivações dos pagamentos mediante cartões de créditos registrados, e por Plano de Negócio Empreendedorismo fim, os acompanhamentos dos status e retiradas dos seus pedidos. Tudo de forma simples, intuitiva e segura.</p>
+  	      <p>A aplicação permite que toda parte operativa dos clientes sejam executadas na versão mobile, ou seja, das realizações dos pedidos, através da escolha dos itens em um dos menus disponibilizados pelos food trucks, as efetivações dos pagamentos mediante cartões de créditos registrados, os acompanhamentos dos status e retiradas dos seus pedidos. Tudo de forma simples, intuitiva e segura.</p>
   	      <br>
   	    </div>
   	    <div class="col-sm-4">
@@ -73,7 +73,7 @@
             </div>
             <div class="card-block">
             <h4 class="card-title text-center">Valores</h4>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="card-text">A confiança e integridade com nossos clientes e colaboradores reflete a nossa conduta ética, comunicação clara, nosso foco em resultados e busca constante na excelência com simplicidade.</p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@
             </div>
             <div class="card-block">
               <h4 class="card-title text-center">PTM – Propósito Transformador Massivo</h4>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              <p class="card-text">Corroborar com a qualidade de vida e sustentabilidade dos brasileiros. Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div>
           </div>
@@ -123,41 +123,11 @@
     <script>
           $(window).on('load', function() {
 
-              $('.scrollUp').viewportChecker({
-                classToAdd: 'visibleMe fadeInUp',
-                classToRemove: 'hiddenMe',
-                //classToAddForFullView : 'visibleMe fadeInRight',
-                //repeat: true,
-                offset: 100    
-              });
-
-              $('.scrollDown').viewportChecker({
-                classToAdd: 'visibleMe fadeInDown',
-                classToRemove: 'hiddenMe',
-                //classToAddForFullView : 'visibleMe fadeInRight',
-                //repeat: true,
-                offset: 100    
-              });
-
               $('.scrollLeft').viewportChecker({
                 classToAdd: 'visibleMe fadeInLeft',
                 classToRemove: 'hiddenMe',
                 //classToAddForFullView : 'visibleMe fadeInRight',
                 //repeat: true,
-                offset: 100    
-              });
-
-              $('.scrollRight').viewportChecker({
-                classToAdd: 'visibleMe fadeInRight',
-                classToRemove: 'hiddenMe',
-                //classToAddForFullView : 'visibleMe fadeInRight',
-                //repeat: true,
-                offset: 100    
-              });
-
-              $('.scrollIn').viewportChecker({
-                classToAdd: 'visibleMe fadeIn',
-                classToRemove: 'hiddenMe',
                 offset: 100    
               });
 

@@ -199,23 +199,65 @@
             <div  class="col-md-4 col-sm-4 col-xs-12 text-center" id="down-left">
                 <div class="basic-container">
                     <div class="card-home">
-                        
+                      <img src="assets/img/home/paciencia.png" class="img-cards">
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p> 
                     </div>
                 </div>
             </div>
             <div  class="col-md-4 col-sm-4 col-xs-12 text-center" id="down-left">
                 <div class="basic-container">
                     <div class="card-home">
-                        
+                      <img src="assets/img/home/fidelidade.png" class="img-cards">
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     </div>
                 </div>
             </div>
             <div  class="col-md-4 col-sm-4 col-xs-12 text-center" id="down-left">
                 <div class="basic-container">
                     <div class="card-home">
+                      <img src="assets/img/home/alerts.png" class="img-cards">
+
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="home-desc home-desc-after home-plus-width">
+        <div class="row"> 
+            <div  class="col-md-6 col-sm-6 col-xs-12 text-center" id="down-left">
+                <div class="basic-container">
+                    <h2 class="title hiddenMe animated scrollDown"> Seus momentos, seu tempo!</h2>
+
+                    <h5 class="description hiddenMe animated scrollLeft"> 
+                        <i class="fa fa-check" aria-hidden="true"></i> 
+                        Lorem ipsum dolor sit amet, consectetur adipiscing, Lorem ipsum dolor sit amet.
+                    </h5>
+
+                    <h5 class="description hiddenMe animated scrollLeft">
+                        <i class="fa fa-check" aria-hidden="true"></i> 
+                        But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain.
+                    </h5>
+
+                    <h5 class="description hiddenMe animated scrollLeft">
+                        <i class="fa fa-check" aria-hidden="true"></i> 
+                        Lorem ipsum dolor sit amet, consectetur adipiscing
+                    </h5>
+
+                    <h5 class="description hiddenMe animated scrollLeft"> 
+                        <i class="fa fa-check" aria-hidden="true"></i> 
+                        Lorem ipsum dolor sit amet, consectetur adipiscing, Lorem ipsum dolor sit amet.
+                    </h5>
+
+                    
+                </div>
+            </div>
+            <div  class="col-md-6 col-sm-6 col-xs-12 text-center" id="down-left">
+                  <div class="basic-device">
+                    <img src="assets/img/home/discovery-devices.png" class="img-card hiddenMe animated scrollZoomIn">
+                  </div>
             </div>
         </div>
     </div>
@@ -234,14 +276,7 @@
     <script>
         $(window).on('load', function() {
 
-            $('.scrollUp').viewportChecker({
-              classToAdd: 'visibleMe fadeInUp',
-              classToRemove: 'hiddenMe',
-              //classToAddForFullView : 'visibleMe fadeInRight',
-              //repeat: true,
-              offset: 100    
-            });
-
+           
             $('.scrollDown').viewportChecker({
               classToAdd: 'visibleMe fadeInDown',
               classToRemove: 'hiddenMe',
@@ -255,20 +290,6 @@
               classToRemove: 'hiddenMe',
               //classToAddForFullView : 'visibleMe fadeInRight',
               //repeat: true,
-              offset: 100    
-            });
-
-            $('.scrollRight').viewportChecker({
-              classToAdd: 'visibleMe fadeInRight',
-              classToRemove: 'hiddenMe',
-              //classToAddForFullView : 'visibleMe fadeInRight',
-              //repeat: true,
-              offset: 100    
-            });
-
-            $('.scrollIn').viewportChecker({
-              classToAdd: 'visibleMe fadeIn',
-              classToRemove: 'hiddenMe',
               offset: 100    
             });
 
