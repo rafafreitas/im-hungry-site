@@ -14,7 +14,7 @@
     <div id="header" class="home headerDown">
       <? include "assets/inc/header.php" ?>
       
-        <img src="assets/img/company/header2.jpg">
+        <img src="assets/img/company/header2.png">
         <div class="top-left hiddenMe animated scrollLeft" >
           <h2>Lorem ipsum dolor</h2><br>
           Sit amet, consectetur adipiscing elit. Ullamco laboris nisi ut aliquip ex ea commodo<br>
