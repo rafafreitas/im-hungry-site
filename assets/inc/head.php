@@ -2,6 +2,20 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
+		<meta name="title" content="I`m Hungry | " />
+		<meta property="og:title" content="Pedidos online | Acompanhamento de pedidos | Pedidos em FoodTrucks">
+	    <meta property="og:description" content="A I`m Hungry é uma empresa que agiliza seus pedidos para que você não precise mais enfrentar filas. Curta seu evento ou passeio e deixe sua alimentação com a gente.">
+	    <meta property="og:url" content="https://www.rafafreitas.com/">
+	    <meta property="og:site_name" content="I`m Hungry">
+	    <meta property='og:image' content='https://www.rafafreitas.com/assets/img/brand/logo.png'/>
+	    <meta property="og:type" content="website">
+		<meta property="og:locale" content="pt_BR">
+		<meta name="author" content="Rafael Freitas"> 
+		<meta name="language" content="pt-br" />
+		<meta name="distribution" content='global' />
+		<meta name="revisit-after" content="7 Days" />
+		<meta name="robots" content="index, follow">
+
 		<title>I`m Hungry - Curta o que é importante!</title>
 
 		<!-- Favicon -->

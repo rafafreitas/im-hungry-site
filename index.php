@@ -169,7 +169,7 @@
 
                     <h5 class="description hiddenMe animated scrollZoomIn"> 
                         <i class="fa fa-check" aria-hidden="true"></i> 
-                        Informações preciosas para o usuário que vão desde as avaliações de outros clientes e cardápios completos, até o tempo estimado de entrega.
+                        Informações preciosas para o usuário que vão desde cardápios completos, até o tempo estimado de entrega.
                     </h5>
 
                     
@@ -181,7 +181,7 @@
 
                     <h5 class="description hiddenMe animated scrollZoomIn"> 
                         <i class="fa fa-check" aria-hidden="true"></i> 
-                        Facilidade em encontrar o prato favorito a poucos quilômetros de distância por conta do sistema de geolocalização;
+                        Facilidade em encontrar o prato favorito a poucos quilômetros de distância por conta do sistema de geolocalização.
                     </h5>
 
                     <h5 class="description hiddenMe animated scrollZoomIn"> 
