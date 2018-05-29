@@ -26,7 +26,7 @@
     <div class="container-fluid About">
   	  <div class="row">
   	    <div class="col-sm-8">
-  	      <h2>Vivemos pra comer!</h2><br>
+  	      <h2>Vivemos para comer!</h2><br>
   	      <h4>Impulsionada pela praticidade e pelas novas rotinas de consumo a I’m Hungry é uma plataforma web e mobile, que tem por objetivo facilitar interação entre food trucks e seus consumidores, agregando qualidade, segurança, praticidade e celeridade a todo o processo. </h4><br>
   	      <p>A aplicação permite que toda parte operativa dos clientes sejam executadas na versão mobile, ou seja, das realizações dos pedidos, através da escolha dos itens em um dos menus disponibilizados pelos food trucks, as efetivações dos pagamentos mediante cartões de créditos registrados, os acompanhamentos dos status e retiradas dos seus pedidos. Tudo de forma simples, intuitiva e segura.</p>
   	      <br>
