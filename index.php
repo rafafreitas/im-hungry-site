@@ -200,7 +200,9 @@
                 <div class="basic-container">
                     <div class="card-home">
                       <img src="assets/img/home/paciencia.png" class="img-cards">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p> 
+                      <p>Não perca mais tempo, faça dele o seu aliado contra sua fome.
+                      Peça e acompanhe seu pedido pelo aplicativo,
+                      tenha mais comodidade e facilidade na palma da mão.</p> 
                     </div>
                 </div>
             </div>
@@ -208,7 +210,7 @@
                 <div class="basic-container">
                     <div class="card-home">
                       <img src="assets/img/home/fidelidade.png" class="img-cards">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                      <p>Você tem a opção de comprar em estabelecimentos que possuem cartões fidelidade virtuais, compre e concorra a prêmios!</p>
                     </div>
                 </div>
             </div>
@@ -217,7 +219,7 @@
                     <div class="card-home">
                       <img src="assets/img/home/alerts.png" class="img-cards">
 
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                      <p>Pague e não se preocupe com o tempo de espera, faça o que quiser, pois nós avisaremos você quando estiver pronto.</p>
                         
                     </div>
                 </div>
@@ -233,22 +235,22 @@
 
                     <h5 class="description hiddenMe animated scrollLeft"> 
                         <i class="fa fa-check" aria-hidden="true"></i> 
-                        Lorem ipsum dolor sit amet, consectetur adipiscing, Lorem ipsum dolor sit amet.
+                        Compre e concorra a prêmios.
                     </h5>
 
                     <h5 class="description hiddenMe animated scrollLeft">
                         <i class="fa fa-check" aria-hidden="true"></i> 
-                        But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain.
+                        Visualize todos os pratos, sem sair do lugar.
                     </h5>
 
                     <h5 class="description hiddenMe animated scrollLeft">
                         <i class="fa fa-check" aria-hidden="true"></i> 
-                        Lorem ipsum dolor sit amet, consectetur adipiscing
+                        Pague sem enfrentar filas.
                     </h5>
 
                     <h5 class="description hiddenMe animated scrollLeft"> 
                         <i class="fa fa-check" aria-hidden="true"></i> 
-                        Lorem ipsum dolor sit amet, consectetur adipiscing, Lorem ipsum dolor sit amet.
+                        Você pode fazer outras coisas, te avisaremos quando estiver tudo pronto.
                     </h5>
 
                     
